@@ -71,10 +71,6 @@
 							<a class="nav-link  {{ str_contains(Route::currentRouteName(), 'home') ? 'active' : '' }}" href="{{ route('home') }}" aria-current="page" href="#">Home</a>
 						</li>
 
-						<li class="nav-item">
-							<a class="nav-link  {{ str_contains(Route::currentRouteName(), 'foundation') ? 'active' : '' }}" href="{{ route('foundation') }}" aria-current="page" href="#">CMC Foundation</a>
-						</li>
-						
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle {{ str_contains(Route::currentRouteName(), 'external.') ? 'active' : '' }}" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 								External Resourcus
