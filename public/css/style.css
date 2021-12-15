@@ -432,6 +432,9 @@ header .navbar.navbar-expand-lg .nav-item:hover .dropdown-toggle:after {
 	padding: 20px;
 	border-radius: 5px 5px 0 0;
 }
+#foundationPage .ourTeam .filter {
+	margin-left: auto;
+}
 #foundationPage .ourTeam .filter a {
 	display: inline-block;
 	color: #959595;
@@ -492,6 +495,14 @@ header .navbar.navbar-expand-lg .nav-item:hover .dropdown-toggle:after {
 	position: absolute;
 	right: 0;
 	top: 0;
+}
+/*========== NEWSLETTER ==========*/
+.newsletter .btn {
+	background: #e3007a;
+	color: #fff;
+	line-height: 100%;
+	font-size: 35px;
+	padding: 0 25px;
 }
 /*========================== PAGINATE ==========================*/
 .pagination {
@@ -580,10 +591,84 @@ footer .copyright {
 	
 }
 @media (max-width: 992px) {
-	
+	header .navbar-toggler:focus {
+		box-shadow: none;
+	}
+	header .navbar .dropdown-toggle:after {
+		transform: none;
+		left: auto;
+		right: 10px;
+		bottom: auto;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+	header .navbar-collapse {
+		padding-top: 20px;
+	}
+	header .navbar.navbar-expand-lg .nav-link {
+		padding: 8px 10px;
+	}
+	.nav-tabs .nav-item .nav-link {
+		padding: 10px;
+	}
+	#foundationPage .banner {
+		padding-top: 100px;
+	}
+	#foundationPage .members .item {
+		width: 20%;
+	}
 }
 @media (max-width: 768px) {
-	
+	header .top {
+		padding: 10px;
+	}
+	header .top .link a {
+		padding: 5px 10px;
+		margin: 0;
+	}
+	header .top .search {
+		padding: 0 10px;
+		margin: 0 10px;
+	}
+	header .top .search i {
+		width: 25px;
+		height: 25px;
+		font-size: 14px;
+	}
+	header .top .language .btn {
+		font-size: 14px;
+	}
+	header .top .language .btn i {
+		font-size: 20px;
+	}
+	header .navbar {
+		padding: 0 10px;
+	}
+	section {
+		padding: 20px 0;
+	}
+	section .sectionHeading {
+		font-size: 22px;
+	}
+	section .sectionSubHeading {
+		font-size: 18px;
+	}
+	#foundationPage .ourTeam .stats .item {
+		padding: 10px;
+		margin-bottom: 10px;
+	}
+	#foundationPage .members .item {
+		width: 33.333%;
+	}
+	#foundationPage .community .shadow {
+		margin-top: 20px;
+	}
+	#foundationPage .events h6 {
+		font-size: 14px;
+	}
+	#foundationPage .ourTeam .filter {
+		margin: 10px 0 0 0;
+	}
 }
 @media (max-width: 576px) {
 	

@@ -5,7 +5,7 @@
 	<section class="banner">
 		<div class="container">
 	        <div class="row">
-	        	<div class="col-md-4">
+	        	<div class="col-lg-4 col-md-6">
 	        		<div class="intro">
 	        			<h5>CMC Foundation</h5>
 	        			<div>The CMC Foundation is a not-for-profit organization based in Zurich, Switzerland, and operates research centers in Palo Alto, San Francisco, and Zurich.</div>
@@ -32,10 +32,10 @@
     <section class="ourTeam">
     	<div class="container">
     		<div class="row mb-3 align-items-center">
-    			<div class="col">
+    			<div class="col-md">
     				<h2 class="sectionHeading mb-0">Our Team</h2>
     			</div>
-    			<div class="col-auto ms-auto filter">
+    			<div class="col-auto filter">
     				<a href="#" class="active">All</a>
     				<a href="#">Leadership</a>
     				<a href="#">R&D</a>
@@ -114,10 +114,10 @@
     <section class="community">
     	<div class="container">
     		<div class="row align-items-center">
-				<div class="col-md-4">
+				<div class="col-lg-4 col-md-6">
 					<img src="{{ asset('img/img-20.jpg') }}">
 				</div>
-				<div class="col-md-4">
+				<div class="col-lg-4 col-md-6">
 					<div class="shadow p-3">
 						<h3 class="sectionHeading text-center">Our Community</h3>
 						<p>The CMC Foundation is dedicated to bringing people and organizations together to learn about and collaborate on the next-generation of decentralized applications. The Internet Computer allows developers to build dapps that are scaleable, run smart contracts at web speed, and serve user experiences directly on chain. We believe in a future in which every system and service is rebuilt and reimagined using smart contracts and runs entirely from public blockchains without need for traditional IT. We’re committed to connecting those who believe the same through our events, content, and discussions.</p>
@@ -144,7 +144,7 @@
 	    				</div>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-lg-4 col-md-6 d-lg-block d-none">
 					<img src="{{ asset('img/img-21.jpg') }}">
 				</div>
 			</div>
@@ -154,13 +154,13 @@
     	<div class="container">
     		<h2 class="sectionHeading">Past Events</h2>
     		<div class="row">
-    			<div class="col-md-3">
+    			<div class="col-md-3 col-auto">
     				<ul class="list-unstyled year">
     					<li><a href="#" class="active">2021</a></li>
     					<li><a href="#">2020</a></li>
     				</ul>
     			</div>
-    			<div class="col-md-9">
+    			<div class="col-md-9 col">
     				<ul class="list-unstyled listEvents">
     					<li>
     						<a href="#">

@@ -63,7 +63,7 @@
 					<img src="{{ asset('img/logo.png') }}" alt="">
 				</a>
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
+					<i class="fas fa-bars"></i>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -95,7 +95,7 @@
 		<section class="newsletter bgGradBlue">
 			<div class="container">
 				<div class="row align-items-center">
-		            <div class="col-auto text-end">
+		            <div class="col-md-auto col-sm text-end">
 		                <h6 class="mb-0">Stay ahead</h6>
 		                <div>weekly insights straight to your inbox</div>
 		            </div>
