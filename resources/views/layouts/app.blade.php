@@ -80,11 +80,11 @@
 								External Resourcus
 							</a>
 							<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<li><a class="dropdown-item" href="javascript:void(0)">CMC Invest</a></li>
-								<li><a class="dropdown-item" href="javascript:void(0)">CMC Foundation</a></li>
-								<li><a class="dropdown-item" href="javascript:void(0)">Diasplat</a></li>
-								<li><a class="dropdown-item" href="javascript:void(0)">Onstora</a></li>
-								<li><a class="dropdown-item" href="javascript:void(0)">Payment Gate</a></li>
+								<li><a class="dropdown-item" href="https://cmcinvest.io/" target="_blank">CMC Invest</a></li>
+								<li><a class="dropdown-item" href="https://cmcchain.foundation/" target="_blank">CMC Foundation</a></li>
+								<li><a class="dropdown-item" href="https://diasplat.com/" target="_blank">Diasplat</a></li>
+								<li><a class="dropdown-item" href="https://onstora.com/" target="_blank">Onstora</a></li>
+								<li><a class="dropdown-item" href="https://paygate.global/" target="_blank">Payment Gate</a></li>
 							</ul>
 						</li>
 						                          
@@ -141,7 +141,7 @@
 							<div class="col-md-6">
 								<h6 class="title"><span>Ecosystem</span></h6>
 								<ul>
-									<li><a href="javascript:void(0)">Testnet</a></li>
+									<li><a href="https://testnet.cmcscan.com/">Testnet</a></li>
 									<li><a href="javascript:void(0)">Mainnet</a></li>
 									<li><a href="javascript:void(0)">CMC Wallets</a></li>
 									<li><a href="javascript:void(0)">Wowidex</a></li>
@@ -150,11 +150,11 @@
 							<div class="col-md-6">
 								<h6 class="title"><span>External Resourcus</span></h6>
 								<ul>
-									<li><a href="javascript:void(0)">CMC invest</a></li>
-									<li><a href="javascript:void(0)">CMC foundation </a></li>
-									<li><a href="javascript:void(0)">Diasplat</a></li>
-									<li><a href="javascript:void(0)">Onstora</a></li>
-									<li><a href="javascript:void(0)">Payment Gate </a></li>
+									<li><a href="https://cmcinvest.io/">CMC invest</a></li>
+									<li><a href="https://cmcchain.foundation/">CMC foundation </a></li>
+									<li><a href="https://diasplat.com/">Diasplat</a></li>
+									<li><a href="https://onstora.com/">Onstora</a></li>
+									<li><a href="https://paygate.global/">Payment Gate </a></li>
 								</ul>
 							</div>
 							<div class="col-md-6">
@@ -183,11 +183,11 @@
 							<div class="col-md-6 menuFooter">
 								<h6 class="title"><span>Compay</span></h6>
 								<ul>
-									<li><a href="javascript:void(0)"">About Us</a></li>
-									<li><a href="javascript:void(0)"">Board of Directors</a></li>
-									<li><a href="javascript:void(0)"">Technical Advisory Board</a></li>
-									<li><a href="javascript:void(0)"">FAQS</a></li>
-									<li><a href="javascript:void(0)"">Contact us</a></li>
+									<li><a href="javascript:void(0)">About Us</a></li>
+									<li><a href="javascript:void(0)">Board of Directors</a></li>
+									<li><a href="javascript:void(0)">Technical Advisory Board</a></li>
+									<li><a href="javascript:void(0)">FAQS</a></li>
+									<li><a href="javascript:void(0)">Contact us</a></li>
 								</ul>
 							</div>
 							<div class="col-md-6 social">
